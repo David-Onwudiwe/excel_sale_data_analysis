@@ -104,12 +104,13 @@ Slicers let a viewer filter the entire dashboard interactively, so all charts up
 ```
 excel_sale_data_analysis/
 │
-├── sales_data_original.xlsx     # Raw source dataset
-├── Sales data analysis in Excel.xlsx   # Full workbook with PivotTables, calculations, and dashboard
-└── README.md                    # Project documentation
+├── README.md                              # Project documentation
+├── Sales data analysis in Excel.xlsx      # Full workbook with PivotTables, calculations, and dashboard
+├── sales_dashboard_screenshot.png         # Dashboard preview image
+└── sales_data_original.xlsx               # Raw source dataset
 ```
 
-[Add or adjust file/folder descriptions if the repository structure differs]
+
 
 ## How to Run / Use the Project
 
