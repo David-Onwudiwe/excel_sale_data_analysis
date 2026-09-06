@@ -1,4 +1,4 @@
-# excel_sale_data_analysis
+# Sales data analysis in Excel
 
 A complete Excel-based analysis of a global sales transaction dataset, built to uncover revenue and profit trends across regions, product categories, sales channels, and order types — and presented through an interactive PivotTable-driven dashboard.
 
@@ -43,7 +43,14 @@ Raw transactional sales data is hard to act on in its native form — thousands 
 
 ### Data Cleaning / Preparation
 
-[Add details on any cleaning steps performed — e.g., handling duplicates, formatting dates, standardizing text fields]
+The preparation process included:
+
+- Clearing all previous filters from the dataset
+- Reviewing the structure and fields in the dataset
+- Reviewing date, text, and numerical fields
+- Checking transaction-level revenue, cost, and profit values
+- Preparing the dataset for PivotTable analysis
+- Creating supporting worksheets for summarized analysis
 
 ### Analysis
 
